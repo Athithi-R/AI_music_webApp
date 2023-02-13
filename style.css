@@ -1,0 +1,54 @@
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+
+.note{
+    font-size: 15px;
+    color: black;
+}
+
+body{
+    background-size: cover;
+}
+
+canvas{
+    border-radius: 25px;
+    border: white 5px solid;
+}
+
+#song_btn{
+    font-size: 25px;
+    width: 130px;
+}
+
+.div_speed{
+    float: left;
+
+}
+
+.div_speed_img{
+    width: 200px;
+    border-radius: 100px;
+}
+
+.speed_btn{
+    font-size: 23px;
+    margin: 15px;
+}
+
+.div_volume{
+    float: right;
+
+}
+
+.div_volume_img{
+    width: 200px;
+    border-radius: 100px;
+}
+
+.volume_btn{
+    font-size: 23px;
+    margin: 15px;
+}
